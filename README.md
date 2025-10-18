@@ -21,7 +21,7 @@ Saya masih dan tidak akan berhenti belajar mengembangkan aplikasi, web, dan game
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### Backend
@@ -31,14 +31,14 @@ Saya masih dan tidak akan berhenti belajar mengembangkan aplikasi, web, dan game
 ![PostgreSQL](https://img.shields.io/badge/MySQL-336791?style=flat&logo=mysql&logoColor=white)
 
 ### Game Dev
-![C#](https://img.shields.io/badge/unity-336791?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-336791?style=flat&logo=unity&logoColor=white)
 
 ### Framework
 ![Laravel](https://img.shields.io/badge/Laravel-a30000?style=flat&logo=laravel&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
