@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Problem Solver | Tech Enthusiast**
 
-Salam kenal! Sata adalah seorang pelajar yang passionate dalam bidang Teknologi. Saya percaya bahwa Teknologi bisa memberi dampak yang sangat besar di segala sektor. Juga, saya percaya pada continous learning dan collaboration dalam komunitas Teknologi.
+Salam kenal! Saya adalah seorang pelajar yang passionate dalam bidang Teknologi. Saya percaya bahwa Teknologi bisa memberi dampak yang sangat besar di segala sektor. Juga, saya percaya pada continous learning dan collaboration dalam komunitas Teknologi.
 
 ---
 
