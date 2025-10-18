@@ -61,8 +61,8 @@ Presensi sekolah dengan QR-Code, yang terinspirasi dari QRIS. Teknologi yang dig
 
 ### 🏞️ RGION FX (https://github.com/ccodesmithh/rgion-fx)
 Minecraft Shader yang indah dan optimal. Teknologi yang digunakan: OpenGL
-- ⭐ Fitur utama
-- ⭐ Fitur utama
+- ⭐ Pencahayaan Imersif
+- ⭐ Ringan
 
 ---
 
