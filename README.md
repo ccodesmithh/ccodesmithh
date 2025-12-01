@@ -26,9 +26,11 @@ Saya masih dan tidak akan berhenti belajar mengembangkan aplikasi, web, dan game
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-5645b5?style=flat&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/MySQL-336791?style=flat&logo=mysql&logoColor=white)
+
+### Science & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### Game Dev
 ![C#](https://img.shields.io/badge/C%23-336791?style=flat&logo=unity&logoColor=white)
