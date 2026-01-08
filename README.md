@@ -37,7 +37,7 @@ Saya masih dan tidak akan berhenti belajar mengembangkan aplikasi, web, dan game
 
 ### Framework & Library
 ![Laravel](https://img.shields.io/badge/Laravel-a30000?style=flat&logo=laravel&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-007ACC?style=flat&logo=react&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-007ACC?style=flat&logo=react&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
