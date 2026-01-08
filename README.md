@@ -35,8 +35,9 @@ Saya masih dan tidak akan berhenti belajar mengembangkan aplikasi, web, dan game
 ### Game Dev
 ![C#](https://img.shields.io/badge/C%23-336791?style=flat&logo=unity&logoColor=white)
 
-### Framework
+### Framework & Library
 ![Laravel](https://img.shields.io/badge/Laravel-a30000?style=flat&logo=laravel&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-007ACC?style=flat&logo=react&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
