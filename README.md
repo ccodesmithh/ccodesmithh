@@ -72,7 +72,7 @@ Minecraft Shader yang indah dan optimal. Teknologi yang digunakan: OpenGL
 ## 📈 Aktivitas Terbaru
 
 - 🔄 Sedang belajar: Machine Learning
-- 🎯 Sedang mengerjakan: JURU
+- 🎯 Sedang mengerjakan: Project:NATO
 - 🤖 Ingin berkolaborasi pada: Game Dev
 
 ---
