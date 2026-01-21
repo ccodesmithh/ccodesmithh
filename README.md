@@ -82,6 +82,7 @@ Minecraft Shader yang indah dan optimal. Teknologi yang digunakan: OpenGL
 Saya selalu senang berdiskusi tentang teknologi dan proyek menarik. Hubungi saya melalui:
 
 [![Instagram](https://img.shields.io/badge/Instagram-0077B5?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ccodesmithh)
+Email: hafidzyudhaprasetiya@gmail.com
 
 ---
 
