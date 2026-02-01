@@ -59,10 +59,9 @@ Saya adalah seorang pelajar yang percaya bahwa baris kode bukan sekadar teks, me
 <img src="https://github-profile-trophy.vercel.app/?username=ccodesmithh&theme=radical&no-bg=true&margin-w=4" width="100%" />
   
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccodesmithh&theme=radical&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github.com/ccodesmithh/ccodesmithh/blob/main/github-metrics.svg" width="100%" />
+</div>
 
 ---
 
