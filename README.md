@@ -17,7 +17,7 @@
 Saya adalah seorang pelajar yang percaya bahwa program digital bukan hanya tentang coding, melainkan solusi yang dapat memberikan dampak nyata. Berbasis di **Metro, Indonesia**, saya berfokus pada pengembangan aplikasi, web, dan game yang mengutamakan pengalaman pengguna.
 
 - 🔭 **Sedang mengerjakan:** [Project:NATO](https://github.com/ccodesmithh)
-- 🌱 **Sedang mendalami:** Machine Learning & AI Integration
+- 🌱 **Sedang mendalami:** Game Development
 - 🤝 **Kolaborasi:** Terbuka untuk diskusi seputar Game Development & Full Stack
 - 💬 **Tanya saya tentang:** PHP, Laravel, React, atau Minecraft Shaders
 
