@@ -14,7 +14,7 @@
 
 ### 👤 Tentang Saya
 
-Saya adalah seorang pelajar yang percaya bahwa baris kode bukan sekadar teks, melainkan solusi yang dapat memberikan dampak nyata. Berbasis di **Metro, Indonesia**, saya berfokus pada pengembangan aplikasi, web, dan game yang mengutamakan pengalaman pengguna.
+Saya adalah seorang pelajar yang percaya bahwa program digital bukan hanya tentang coding, melainkan solusi yang dapat memberikan dampak nyata. Berbasis di **Metro, Indonesia**, saya berfokus pada pengembangan aplikasi, web, dan game yang mengutamakan pengalaman pengguna.
 
 - 🔭 **Sedang mengerjakan:** [Project:NATO](https://github.com/ccodesmithh)
 - 🌱 **Sedang mendalami:** Machine Learning & AI Integration
