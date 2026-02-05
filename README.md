@@ -67,7 +67,7 @@ Saya adalah seorang pelajar yang percaya bahwa baris kode bukan sekadar teks, me
 
 ### 🤝 Mari Terhubung!
 
-Dunia teknologi terasa lebih kecil saat kita berkolaborasi. Jangan ragu untuk menyapa!
+Pemrograman akan lebih menyenangkan saat berkolaborasi . Jangan ragu untuk menyapa!
 
 <p align="left">
   <a href="https://instagram.com/ccodesmithh" target="_blank">
