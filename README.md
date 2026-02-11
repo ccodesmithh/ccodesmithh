@@ -19,7 +19,7 @@ Saya adalah seorang pelajar yang percaya bahwa program digital bukan hanya tenta
 - 🔭 **Sedang mengerjakan:** [Project:NATO](https://github.com/ccodesmithh)
 - 🌱 **Sedang mendalami:** Game Development
 - 🤝 **Kolaborasi:** Terbuka untuk diskusi seputar Game Development & Full Stack
-- 💬 **Tanya saya tentang:** PHP, Laravel, React, atau Minecraft Shaders
+- 💬 **Tanya saya tentang:** PHP, Laravel, Game Dev (C#)
 
 ---
 
