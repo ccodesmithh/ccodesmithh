@@ -39,12 +39,12 @@ Saya adalah seorang pelajar yang percaya bahwa program digital bukan hanya tenta
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4>🏫 QREN (Education Attendance)</h4>
+      <h4>QREN (Quick Response for Education Attendance)</h4>
       <p>Sistem presensi sekolah berbasis QR-Code dengan validasi Geolocation. Dibangun dengan Laravel & MySQL.</p>
       <code>Laravel</code> <code>MySQL</code> <code>Geolocation</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🏞️ RGION FX</h4>
+      <h4>RGION FX</h4>
       <p>Minecraft Shader yang dioptimalkan untuk keindahan visual dan performa yang ringan menggunakan OpenGL.</p>
       <code>OpenGL</code> <code>GLSL</code> <code>Optimization</code>
     </td>
