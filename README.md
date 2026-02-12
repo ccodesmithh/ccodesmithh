@@ -23,7 +23,7 @@ Saya adalah seorang pelajar yang percaya bahwa program digital bukan hanya tenta
 
 ---
 
-### 🛠️ Toolbox Teknologi
+### 🛠️ TechStack yang Sedang Dipelajari
 
 | Kategori | Teknologi |
 | :--- | :--- |
