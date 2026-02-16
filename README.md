@@ -38,10 +38,15 @@ Saya adalah seorang pelajar yang percaya bahwa program digital bukan hanya tenta
 
 <table border="0">
   <tr>
-    <td width="50%" valign="top">
+    <!-- <td width="50%" valign="top">
       <h4>QREN (Quick Response for Education Attendance)</h4>
       <p>Sistem presensi sekolah berbasis QR-Code dengan validasi Geolocation. Dibangun dengan Laravel & MySQL.</p>
       <code>Laravel</code> <code>MySQL</code> <code>Geolocation</code>
+    </td> -->
+    <td width="50%" valign="top">
+      <h4>CubiX</h4>
+      <p>Graph Editor flexibel yang lebih optimal dari graph editor built-in After Effects</p>
+      <code>JavaScript</code> <code>HTML</code> <code>CSS</code>
     </td>
     <td width="50%" valign="top">
       <h4>RGION FX</h4>
