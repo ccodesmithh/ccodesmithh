@@ -16,7 +16,7 @@
 
 Saya adalah seorang pelajar yang percaya bahwa program digital bukan hanya tentang coding, melainkan solusi yang dapat memberikan dampak nyata. Berbasis di **Metro, Indonesia**, saya berfokus pada pengembangan aplikasi, web, dan game yang mengutamakan pengalaman pengguna.
 
-- 🔭 **Sedang mengerjakan:** [Project:NATO](https://portfolio.pasific.web.id/projects/2)
+- 🔭 **Sedang mengerjakan:** [Project:NATO](https://portfolio.pasific.web.id/projects/tba)
 - 🌱 **Sedang mendalami:** Game Development
 - 🤝 **Kolaborasi:** Terbuka untuk diskusi seputar Game Development & Full Stack
 - 💬 **Tanya saya tentang:** PHP, Laravel, Game Dev (C#)
