@@ -14,11 +14,11 @@
 
 ### 👤 Tentang Saya
 
-Saya adalah seorang pengembang yang berfokus pada **pemecahan masalah melalui kode**. Saya percaya bahwa teknologi terbaik adalah yang mampu menjembatani fungsionalitas dan estetika. Saat ini, saya sedang mendalami persimpangan antara **Web Development** dan **Computer Graphics**.
+Saya adalah seorang pelajar SMK yang berfokus pada **pemecahan masalah melalui kode**. Saya percaya bahwa teknologi terbaik adalah yang mampu menjembatani fungsionalitas dan estetika. Saat ini, saya sedang mendalami persimpangan antara **Web Development** dan **Game Development**.
 
 - 🔭 **Proyek Saat Ini:** Menghidupkan [Project:NATO](https://portfolio.pasific.web.id/projects/tba).
 - 🎨 **Minat Khusus:** Optimasi performa, GLSL Shaders, dan arsitektur sistem backend.
-- 💬 **Mari Diskusi:** PHP/Laravel, Game Dev (C#), atau sekadar ngobrol tentang optimasi visual.
+- 💬 **Mari Diskusi:** PHP/Laravel, Game Dev (C#), atau sekadar ngobrol tentang Teknologi.
 
 ---
 
