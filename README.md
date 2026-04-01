@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=250&section=header&text=Halo,%20Saya%20Yudha!&fontSize=70&animation=fadeIn" width="100%" />
 
-  <h3>Full Stack Developer 🌐 | Game Dev Enthusiast 🎮 | Creative Coder 💻</h3>
+  <h3>Full Stack Student 🌐 | Game Dev Enthusiast 💻 | Game Dev Student 🎮</h3>
 
   <p align="center">
     <img src="https://img.shields.io/badge/📍-Metro,%20Lampung-red?style=flat-square" />
