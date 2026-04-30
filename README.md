@@ -42,15 +42,15 @@
 const yudha: Developer = {
   name:       "Yudha Prasetiya",
   alias:      "ccodesmithh",
-  location:   "Metro, Lampung 🇮🇩",
+  location:   "Metro, Lampung",
   school:     "SMK — Software Engineering",
 
-  currentProject: "Project:NATO 🚀",
+  currentProject: "Project:NATO",
   learning:   ["GLSL Shaders", "Backend Architecture", "OpenGL"],
   interests:  ["Web Dev", "Game Dev", "Performance Optimization"],
 
   askMeAbout: ["PHP/Laravel", "C# & Unity", "GLSL", "React"],
-  funFact:    "I build shaders that make Minecraft look unreal 🎮✨",
+  funFact:    "I build shaders that make Minecraft look unreal",
 
   contactMe:  "hafidzyudhaprasetiya@gmail.com",
 };
@@ -148,7 +148,7 @@ const yudha: Developer = {
 ## 💬 Dev Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="50%"/>
 </div>
 
 ---
