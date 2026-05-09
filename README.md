@@ -68,7 +68,7 @@ const yudha: Developer = {
 <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,nodejs,tailwind,vite&theme=dark&perline=10" />
 
 ### ⚙️ Systems & Game Dev
-<img src="https://skillicons.dev/icons?i=cs,python,cpp,unity,opengl&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=cs,python,cpp,unity&theme=dark&perline=10" />
 
 ### 🗄️ Database & Tools
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio,figma,linux&theme=dark&perline=10" />
