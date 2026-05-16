@@ -189,7 +189,7 @@ const yudha: Developer = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F3460,50:1A1A2E,100:E94560&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
-**Dibangun dengan dedikasi oleh Yudha Prasetiya** ⚡
+**Yudha Prasetiya** ⚡
 
 *"The two most important days in your life are the day you are born and the day you find out why."*
 — **Mark Twain**
