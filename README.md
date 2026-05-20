@@ -77,7 +77,7 @@ const yudha: Developer = {
 
 <br/>
 
-**⚙️ Systems & Game Dev**
+**⚙️ Systems & Game Development**
 
 <img src="https://skillicons.dev/icons?i=cs,python,cpp,unity&theme=dark&perline=10" />
 
