@@ -47,15 +47,15 @@
 const yudha: Developer = {
   name:           "Yudha Prasetiya",
   alias:          "ccodesmithh",
-  location:       "Metro, Lampung 🇮🇩",
+  location:       "Metro, Lampung, Indonesia",
   school:         "SMK — Software Engineering",
 
-  currentProject: "Project:NATO  🚀",
+  currentProject: "Project:NATO ",
   learning:       ["GLSL Shaders", "Backend Architecture", "OpenGL"],
   interests:      ["Web Dev", "Game Dev", "Performance Optimization"],
 
   askMeAbout:     ["PHP / Laravel", "C# & Unity", "GLSL", "React"],
-  funFact:        "I build shaders that make Minecraft look unreal ✨",
+  funFact:        "I build shaders that make Minecraft look unreal",
 
   contactMe:      "hafidzyudhaprasetiya@gmail.com",
 };
