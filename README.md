@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,40:1A1A2E,70:16213E,100:0F3460&height=260&section=header&text=Yudha%20Prasetiya&fontSize=68&fontColor=E94560&animation=fadeIn&fontAlignY=45&desc=Crafting%20the%20Web.%20Building%20Worlds.&descSize=19&descAlignY=68&descColor=C0C0C0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:050E1F,40:092444,80:0A3A7A,100:1565C0&height=280&section=header&text=Yudha%20Prasetiya&fontSize=68&fontColor=29B6F6&animation=fadeIn&fontAlignY=40&desc=Crafting%20the%20Web.%20Building%20Worlds.&descSize=19&descAlignY=62&descColor=81D4FA" width="100%"/>
 
 <br/>
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 <a href="https://github.com/ccodesmithh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=620&lines=SMK+Software+Engineering+Student+%F0%9F%8E%93;Web+Dev+%7C+Game+Dev+%7C+Shader+Wizard+%E2%9C%A8;Building+Project%3ANATO+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=29B6F6&background=00000000&center=true&vCenter=true&width=640&lines=SMK+Software+Engineering+Student+%F0%9F%8E%93;Web+Dev+%7C+Game+Dev+%7C+Shader+Wizard+%E2%9C%A8;Building+Project%3ANATO+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -15,29 +15,34 @@
 <!-- ═══════════════════════ SOCIAL BADGES ═══════════════════════ -->
 <p>
   <a href="https://instagram.com/ccodesmithh">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:hafidzyudhaprasetiya@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://portfolio.pasific.web.id">
-    <img src="https://img.shields.io/badge/Portfolio-0F3460?style=for-the-badge&logo=vercel&logoColor=E94560"/>
+    <img src="https://img.shields.io/badge/Portfolio-0A3A7A?style=for-the-badge&logo=vercel&logoColor=29B6F6"/>
   </a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ccodesmithh&color=E94560&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=ccodesmithh&color=29B6F6&style=flat-square&label=PROFILE+VIEWS" />
   &nbsp;
-  <img src="https://img.shields.io/badge/_Metro,_Lampung-1A1A2E?style=flat-square&labelColor=0F3460" />
+  <img src="https://img.shields.io/badge/📍_Metro,_Lampung-092444?style=flat-square&labelColor=0A3A7A&color=092444" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Always%20Shipping%20-E94560?style=flat-square&labelColor=1A1A2E" />
+  <img src="https://img.shields.io/badge/Status-Always%20Shipping%20🚢-29B6F6?style=flat-square&labelColor=092444" />
 </p>
 
 </div>
 
 <br/>
 
----
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=3&section=header" width="100%"/>
+
+<br/>
 
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
@@ -46,18 +51,17 @@
 ```typescript
 const yudha: Developer = {
   name:           "Yudha Prasetiya",
-  alias:          "Arvin",
-  age:            17,
   alias:          "ccodesmithh",
+  age:            17,
   location:       "Metro, Lampung, Indonesia",
   school:         "SMK — Software Engineering",
 
-  currentProject: "Project:NATO ",
+  currentProject: "Project:NATO 🚀",
   learning:       ["GLSL Shaders", "Backend Architecture", "OpenGL"],
   interests:      ["Web Dev", "Game Dev", "Performance Optimization"],
 
   askMeAbout:     ["PHP / Laravel", "C# & Unity", "GLSL", "React"],
-  funFact:        "I build shaders that make Minecraft look unreal",
+  funFact:        "I build shaders that make Minecraft look unreal ✨",
 
   contactMe:      "hafidzyudhaprasetiya@gmail.com",
 };
@@ -65,7 +69,10 @@ const yudha: Developer = {
 
 <br/>
 
----
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=3&section=header" width="100%"/>
+
+<br/>
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
@@ -93,7 +100,29 @@ const yudha: Developer = {
 
 <br/>
 
----
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=3&section=header" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════════════ CURRENTLY LEARNING ═══════════════════════ -->
+
+## 🧠 Currently Leveling Up
+
+<div align="center">
+
+![GLSL](https://img.shields.io/badge/GLSL%20Shaders-1565C0?style=for-the-badge&logo=opengl&logoColor=29B6F6)
+![OpenGL](https://img.shields.io/badge/OpenGL-092444?style=for-the-badge&logo=opengl&logoColor=81D4FA)
+![Backend Architecture](https://img.shields.io/badge/Backend%20Architecture-0A3A7A?style=for-the-badge&logo=serverless&logoColor=29B6F6)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=3&section=header" width="100%"/>
+
+<br/>
 
 <!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
 
@@ -105,14 +134,17 @@ const yudha: Developer = {
 |:---:|:---|:---|:---|:---:|
 | 🎨 | **CubiX** | Flexible graphic editor plugin for After Effects — smoother workflow than the built-in tools | `JS` `HTML` `CSS` | [↗](https://portfolio.pasific.web.id) |
 | ⚡ | **RGION FX** | High-performance Minecraft Shader — perfect balance of visuals & resource efficiency | `OpenGL` `GLSL` | [↗](https://portfolio.pasific.web.id) |
-| 🏫 | **JURU** | *(Internal)* School attendance and Journal | `Laravel` `MySQL` | 🔒 |
+| 🏫 | **JURU** | *(Internal)* School attendance and journal system | `Laravel` `MySQL` | 🔒 |
 | 🚀 | **Night at The Outpost** | *(In Progress)* The current big thing — stay tuned 👀 | `TBA` | [↗](https://portfolio.pasific.web.id/projects/tba) |
 
 </div>
 
 <br/>
 
----
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=3&section=header" width="100%"/>
+
+<br/>
 
 <!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
@@ -120,42 +152,51 @@ const yudha: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ccodesmithh&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ccodesmithh&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ccodesmithh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=050E1F&title_color=29B6F6&icon_color=29B6F6&text_color=81D4FA&border_color=0A3A7A" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ccodesmithh&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=050E1F&ring=29B6F6&fire=29B6F6&currStreakLabel=29B6F6&sideLabels=81D4FA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=4A90D9" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccodesmithh&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccodesmithh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=050E1F&title_color=29B6F6&text_color=81D4FA" width="45%"/>
 
 </div>
 
 <br/>
 
----
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=3&section=header" width="100%"/>
+
+<br/>
 
 <!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ccodesmithh&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ccodesmithh&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 </div>
 
 <br/>
 
----
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=3&section=header" width="100%"/>
+
+<br/>
 
 <!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ccodesmithh&theme=react-dark&hide_border=true&area=true&custom_title=Yudha's%20Contribution%20Graph&color=E94560&line=E94560&point=FFFFFF" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ccodesmithh&theme=tokyo-night&hide_border=true&area=true&custom_title=Yudha's%20Contribution%20Graph&color=29B6F6&line=1565C0&point=81D4FA&area_color=0A3A7A&bg_color=050E1F" width="100%"/>
 </div>
 
 <br/>
 
----
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=3&section=header" width="100%"/>
+
+<br/>
 
 <!-- ═══════════════════════ SNAKE CONTRIBUTION ═══════════════════════ -->
 
@@ -171,25 +212,26 @@ const yudha: Developer = {
 
 <br/>
 
----
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=3&section=header" width="100%"/>
+
+<br/>
 
 <!-- ═══════════════════════ QUOTE ═══════════════════════ -->
 
 ## 💬 Dev Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="65%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="65%"/>
 </div>
 
 <br/>
-
----
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F3460,50:1A1A2E,100:E94560&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,50:092444,100:050E1F&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=81D4FA&animation=fadeIn" width="100%"/>
 
 **by Yudha Prasetiya** ⚡
 
