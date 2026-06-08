@@ -30,9 +30,9 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=ccodesmithh&color=29B6F6&style=flat-square&label=PROFILE+VIEWS" />
   &nbsp;
-  <img src="https://img.shields.io/badge/📍_Metro,_Lampung-092444?style=flat-square&labelColor=0A3A7A&color=092444" />
+  <img src="https://img.shields.io/badge/_Metro,_Lampung-092444?style=flat-square&labelColor=0A3A7A&color=092444" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Always%20Shipping%20🚢-29B6F6?style=flat-square&labelColor=092444" />
+  <img src="https://img.shields.io/badge/Status-Always%20Shipping%20-29B6F6?style=flat-square&labelColor=092444" />
 </p>
 
 </div>
