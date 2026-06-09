@@ -134,7 +134,7 @@ const yudha: Developer = {
 |:---:|:---|:---|:---|:---:|
 | 🎨 | **CubiX** | Flexible graphic editor plugin for After Effects — smoother workflow than the built-in tools | `JS` `HTML` `CSS` | [↗](https://portfolio.pasific.web.id) |
 | ⚡ | **RGION FX** | High-performance Minecraft Shader — perfect balance of visuals & resource efficiency | `OpenGL` `GLSL` | [↗](https://portfolio.pasific.web.id) |
-| 🏫 | **JURU** | *(Internal)* School attendance and journal system | `Laravel` `MySQL` | 🔒 |
+| 🏫 | **JURU** | School attendance and journal system | `Laravel` `MySQL` | 
 | 🚀 | **Night at The Outpost** | *(In Progress)* The current big thing — stay tuned 👀 | `TBA` | [↗](https://portfolio.pasific.web.id/projects/tba) |
 
 </div>
