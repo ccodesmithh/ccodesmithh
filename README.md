@@ -57,7 +57,7 @@ const yudha: Developer = {
   school:         "SMK — Software Engineering",
 
   currentProject: "Project:NATO",
-  learning:       ["GLSL Shaders", "Backend Architecture", "OpenGL"],
+  learning:       ["Game Development", "Backend Architecture", "C#"],
   interests:      ["Web Dev", "Game Dev", "Performance Optimization"],
 
   askMeAbout:     ["PHP / Laravel", "C# & Unity", "GLSL", "React"],
