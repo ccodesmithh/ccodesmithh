@@ -126,7 +126,7 @@ const yudha: Developer = {
 
 <!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -148,7 +148,7 @@ const yudha: Developer = {
 
 <!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -170,7 +170,7 @@ const yudha: Developer = {
 
 <!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ccodesmithh&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
