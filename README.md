@@ -5,7 +5,7 @@
 
 <br/>
 
-<!-- ═══════════════════════ TYPING ANIMATION  -->
+<!-- ═══════════════════════ TYPING ANIMATION  ═══════════════════════-->
 <a href="https://github.com/ccodesmithh">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=29B6F6&background=00000000&center=true&vCenter=true&width=640&lines=SMK+Software+Engineering+Student+%F0%9F%8E%93;Web+Dev+%7C+Game+Dev+%7C+Shader+Wizard+%E2%9C%A8;Building+Project%3ANATO+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
