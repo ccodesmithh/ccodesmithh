@@ -61,7 +61,7 @@ const yudha: Developer = {
   interests:      ["Web Dev", "Game Dev", "Performance Optimization"],
 
   askMeAbout:     ["PHP / Laravel", "C# & Unity", "GLSL", "React"],
-  funFact:        "I build shaders that make Minecraft look unreal",
+  funFact:        "I'm alive!",
 
   contactMe:      "hafidzyudhaprasetiya@gmail.com",
 };
