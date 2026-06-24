@@ -44,7 +44,7 @@
 
 <br/>
 
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+<!--  ABOUT ME  -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Who Am I?
 
