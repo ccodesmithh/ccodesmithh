@@ -52,7 +52,7 @@
 const yudha: Developer = {
   name:           "Yudha Prasetiya",
   alias:          "ccodesmithh",
-  age:            17,
+  age:            18,
   location:       "Metro, Lampung, Indonesia",
   school:         "SMK — Software Engineering",
 
