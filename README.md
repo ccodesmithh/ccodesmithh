@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<!-- ═══════════════════════ SOCIAL BADGES  -->
+<!--  SOCIAL BADGES  -->
 <p>
   <a href="https://instagram.com/ccodesmithh">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
