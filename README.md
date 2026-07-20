@@ -58,7 +58,7 @@ const yudha: Developer = {
 
   currentProject: "Project:NATO",
   learning:       ["Game Development", "Backend Architecture", "C#"],
-  interests:      ["Web Dev", "Game Dev", "Performance Optimization"],
+  interests:      ["Web Dev", "Game Dev", "Mechine Learning"],
 
   askMeAbout:     ["PHP / Laravel", "C# & Unity", "GLSL", "React"],
   funFact:        "Just another dumb kid",
