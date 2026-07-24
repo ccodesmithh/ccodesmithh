@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<!--  HEADER  -->
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:050E1F,40:092444,80:0A3A7A,100:1565C0&height=280&section=header&text=Yudha%20Prasetiya&fontSize=68&fontColor=29B6F6&animation=fadeIn&fontAlignY=40&desc=Sepertinya%20Waktu%20Akan%20Tetap%20Berputar.&descSize=19&descAlignY=62&descColor=81D4FA" width="100%"/>
 
 <br/>
