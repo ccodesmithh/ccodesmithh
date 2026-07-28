@@ -74,7 +74,7 @@ const yudha: Developer = {
 
 <br/>
 
-<!-- ═══════════════════════ TECH STACK  -->
+<!--  TECH STACK  -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack & Tools
 
