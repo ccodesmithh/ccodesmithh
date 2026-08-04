@@ -1,188 +1,162 @@
 <div align="center">
 
-<!--  HEADER  -->
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:050E1F,40:092444,80:0A3A7A,100:1565C0&height=280&section=header&text=Yudha%20Prasetiya&fontSize=64&fontColor=29B6F6&animation=fadeIn&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20%26%20Game%20Developer&descSize=17&descAlignY=62&descColor=81D4FA" width="100%"/>
+# YUDHA PRASETIYA
+
+<sub>vocational software engineer &nbsp;·&nbsp; game developer &nbsp;·&nbsp; metro, lampung, indonesia</sub>
+
+<br/>
 
 <a href="https://github.com/ccodesmithh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=29B6F6&background=00000000&center=true&vCenter=true&width=640&lines=Vocational+Software+Engineering+Student+%F0%9F%8E%93;Full-Stack+%7C+Game+Dev+%7C+Shader+Wizard+%E2%9C%A8;Building%3A+Night+at+The+Outpost+%F0%9F%9A%80;Sepertinya+waktu+akan+tetap+berputar." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=81D4FA&background=00000000&center=true&vCenter=true&width=560&lines=vocational+software+engineer+%F0%9F%8E%93;game+developer+-+night+at+the+outpost+%F0%9F%8E%AE;competing+in+LKS+%F0%9F%8F%86;sepertinya+waktu+akan+tetap+berputar." alt="tagline"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<!--  QUICK NAV  -->
-<p>
-  <a href="#-about-me"><img src="https://img.shields.io/badge/About-092444?style=for-the-badge&logoColor=29B6F6"/></a>
-  <a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-092444?style=for-the-badge"/></a>
-  <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-092444?style=for-the-badge"/></a>
-  <a href="#-competition-experience"><img src="https://img.shields.io/badge/Competitions-092444?style=for-the-badge"/></a>
-  <a href="#-github-stats"><img src="https://img.shields.io/badge/Stats-092444?style=for-the-badge"/></a>
-  <a href="#-lets-connect"><img src="https://img.shields.io/badge/Contact-092444?style=for-the-badge"/></a>
-</p>
-
-<br/>
-
-<!--  SOCIAL BADGES  -->
-<p>
-  <a href="https://github.com/ccodesmithh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/ccodesmithh">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:hafidzyudhaprasetiya@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://portfolio.pasific.web.id">
-    <img src="https://img.shields.io/badge/Portfolio-0A3A7A?style=for-the-badge&logo=vercel&logoColor=29B6F6"/>
-  </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ccodesmithh&color=29B6F6&style=flat-square&label=PROFILE+VIEWS" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/_Metro,_Lampung-092444?style=flat-square&labelColor=0A3A7A&color=092444" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Always%20Shipping%20-29B6F6?style=flat-square&labelColor=092444" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=2&section=header" width="55%"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=3&section=header" width="100%"/>
+```bash
+$ ./initialize --profile=yudha_prasetiya
 
-<br/>
+> booting...
+> location........... metro, lampung, indonesia
+> role............... vocational software engineer, game developer
+> current_build...... night at the outpost (psychological horror)
+> status.............. awake. building. shipping.
 
-## 🧠 About Me
-
-```typescript
-const yudha: Developer = {
-  name:              "Yudha Prasetiya",
-  alias:             "@ccodesmithh",
-  role:              "Vocational Software Engineering Student",
-  location:          "Metro, Lampung, Indonesia",
-
-  currentlyBuilding: "Night at The Outpost — a psychological horror escape game",
-  competingIn:       "LKS (Lomba Kompetensi Siswa) — IT Software Solutions",
-
-  focus:             ["Game Development", "Full-Stack Web", "Backend Architecture"],
-  askMeAbout:        ["PHP / Laravel", "C# & Unity", "GLSL Shaders", "React"],
-
-  motto:             "Sepertinya waktu akan tetap berputar.",
-  contact:           "hafidzyudhaprasetiya@gmail.com",
-};
+$ ./access --grant
+> access granted.
 ```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=3&section=header" width="100%"/>
+<div align="center">
+
+[`01 identity`](#01-identity) &nbsp;/&nbsp; [`02 skills`](#02-skill-tree) &nbsp;/&nbsp; [`03 builds`](#03-build-log) &nbsp;/&nbsp; [`04 trials`](#04-trials) &nbsp;/&nbsp; [`05 vitals`](#05-vitals) &nbsp;/&nbsp; [`06 contact`](#06-transmission)
+
+</div>
 
 <br/>
 
-## 🛠 Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=2&section=header" width="100%"/>
 
-<div align="center">
+<br/>
 
-**Web Development**
+## `01` Identity
+
+I'm a vocational software engineering student based in Metro, Lampung, Indonesia — depending on the day, you'll find me deep in a Laravel migration or tuning a GLSL shader well past midnight. I like software that has to hold up under pressure: competition deadlines, tight specs, real constraints. That's probably why I ended up designing puzzles for a living too.
+
+Outside of coursework and competition prep, I'm building **Night at The Outpost** — a psychological horror escape game about being trapped somewhere small and dark, with only your senses left to work with. Debugging a puzzle that has to feel *impossible but fair* isn't so different from debugging code.
+
+<table>
+<tr><td><strong>role</strong></td><td>vocational software engineer, game developer</td></tr>
+<tr><td><strong>based in</strong></td><td>Metro, Lampung, Indonesia</td></tr>
+<tr><td><strong>currently building</strong></td><td>Night at The Outpost</td></tr>
+<tr><td><strong>currently competing</strong></td><td>LKS — IT Software Solutions</td></tr>
+<tr><td><strong>ask me about</strong></td><td>PHP / Laravel · C# & Unity · GLSL · React</td></tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=2&section=header" width="100%"/>
+
+<br/>
+
+## `02` Skill Tree
+
+tools I reach for most:
+
+**web**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,nodejs,tailwind,vite&theme=dark&perline=10" />
 
-<br/>
-
-**Systems & Game Development**
+**systems & game dev**
 
 <img src="https://skillicons.dev/icons?i=cs,python,cpp,unity&theme=dark&perline=10" />
 
-<br/>
-
-**Database & Tools**
+**database & tools**
 
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio,figma,linux&theme=dark&perline=10" />
 
-</div>
+**currently leveling up**
+
+`GLSL Shaders` `OpenGL` `Machine Learning` `Backend Architecture`
 
 <br/>
 
-**Currently leveling up**
-
-<div align="center">
-
-![GLSL](https://img.shields.io/badge/GLSL%20Shaders-1565C0?style=for-the-badge&logo=opengl&logoColor=29B6F6)
-![OpenGL](https://img.shields.io/badge/OpenGL-092444?style=for-the-badge&logo=opengl&logoColor=81D4FA)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A3A7A?style=for-the-badge&logoColor=29B6F6)
-![Backend Architecture](https://img.shields.io/badge/Backend%20Architecture-0A3A7A?style=for-the-badge&logo=serverless&logoColor=29B6F6)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=2&section=header" width="100%"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=3&section=header" width="100%"/>
+## `03` Build Log
 
-<br/>
-
-## 🎯 Featured Projects
+a running log of what's shipped, and what's still compiling.
 
 <details open>
-<summary><strong>🌙 Night at The Outpost</strong> &nbsp;<em>— in development</em></summary>
+<summary><strong>night at the outpost</strong> &nbsp;— in development</summary>
 <br/>
 
-Locked inside a coffin with nothing but your senses to guide you — a psychological horror escape experience built around sensory-limited puzzle design, with a twist waiting at the end.
+Locked inside a coffin with nothing but your senses to guide you. A psychological horror escape experience built around sensory-limited puzzle design — and a twist waiting at the end.
 
-`Unity` `C#` `GLSL` &nbsp;·&nbsp; Puzzle Design / Escape Mechanics
+`Unity` `C#` `GLSL` &nbsp;·&nbsp; puzzle design / escape mechanics
 
 </details>
 
 <details>
-<summary><strong>🎨 CubiX</strong></summary>
+<summary><strong>cubix</strong></summary>
 <br/>
 
 A flexible graphic editor plugin for After Effects, built to smooth out repetitive parts of the motion design workflow.
 
-`JavaScript` `HTML` `CSS` &nbsp;·&nbsp; [View Project ↗](https://portfolio.pasific.web.id/projects/cubix)
+`JavaScript` `HTML` `CSS` &nbsp;·&nbsp; [view project ↗](https://portfolio.pasific.web.id/projects/cubix)
 
 </details>
 
 <details>
-<summary><strong>🌈 RGION FX</strong></summary>
+<summary><strong>rgion fx</strong></summary>
 <br/>
 
 A high-performance Minecraft shader tuned for the sweet spot between visual fidelity and resource efficiency.
 
-`OpenGL` `GLSL` &nbsp;·&nbsp; [View Project ↗](https://portfolio.pasific.web.id)
+`OpenGL` `GLSL` &nbsp;·&nbsp; [view project ↗](https://portfolio.pasific.web.id)
 
 </details>
 
 <details>
-<summary><strong>🧺 JURU</strong></summary>
+<summary><strong>juru</strong></summary>
 <br/>
 
 A school attendance and journaling system built for day-to-day academic record keeping.
 
-`Laravel` `MySQL` &nbsp;·&nbsp; School Project
+`Laravel` `MySQL` &nbsp;·&nbsp; school project
 
 </details>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=2&section=header" width="100%"/>
 
 <br/>
 
-## 🏆 Competition Experience
+## `04` Trials
 
-- 🖥️ Competing in **LKS (Lomba Kompetensi Siswa)** — IT Software Solutions category, covering desktop, web, mobile, and database development under contest conditions
-- 🧺 Built a full **Laundry Management Information System** end-to-end — SQL Server backend, C# WinForms desktop client, and an Android companion app — within a tight competition timeframe
+where the deadlines got real.
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=3&section=header" width="100%"/>
+- Competing in **LKS (Lomba Kompetensi Siswa)** — IT Software Solutions category, covering desktop, web, mobile, and database development under contest conditions.
+- Built a complete **Laundry Management Information System** end-to-end — SQL Server backend, C# WinForms desktop client, and an Android companion app — inside a tight competition window.
 
 <br/>
 
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=2&section=header" width="100%"/>
+
+<br/>
+
+## `05` Vitals
+
+the pulse behind the commits.
 
 <div align="center">
 
@@ -198,17 +172,15 @@ A school attendance and journaling system built for day-to-day academic record k
 <br/>
 
 <details>
-<summary><strong>🏅 GitHub Trophies</strong></summary>
+<summary><strong>trophies</strong></summary>
 <br/>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ccodesmithh&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
 </div>
 </details>
 
-<br/>
-
 <details>
-<summary><strong>📈 Contribution Activity</strong></summary>
+<summary><strong>contribution activity</strong></summary>
 <br/>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ccodesmithh&theme=tokyo-night&hide_border=true&area=true&custom_title=Yudha's%20Contribution%20Graph&color=29B6F6&line=1565C0&point=81D4FA&area_color=0A3A7A&bg_color=050E1F" width="100%"/>
@@ -227,29 +199,54 @@ A school attendance and journaling system built for day-to-day academic record k
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=2&section=header" width="100%"/>
 
 <br/>
 
-## 🤝 Let's Connect
+## `06` Transmission
+
+open line — reach out for collabs, feedback, or to talk shaders and scares.
 
 <div align="center">
 
-Open to collaborating on game jams, web projects, or anything that needs a shader tweaked at 2 AM.
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="65%"/>
+<a href="https://github.com/ccodesmithh">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/ccodesmithh">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:hafidzyudhaprasetiya@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://portfolio.pasific.web.id">
+  <img src="https://img.shields.io/badge/Portfolio-0A3A7A?style=for-the-badge&logo=vercel&logoColor=29B6F6"/>
+</a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,50:092444,100:050E1F&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=81D4FA&animation=fadeIn" width="100%"/>
+```bash
+$ ./session --end
+
+> connection closing...
+> sepertinya waktu akan tetap berputar.
+> goodbye.
+```
+
+<br/>
 
 <div align="center">
 
-**by Yudha Prasetiya** ⚡
+<img src="https://komarev.com/ghpvc/?username=ccodesmithh&color=29B6F6&style=flat-square&label=PROFILE+VIEWS" />
 
-*"The two most important days in your life are the day you are born and the day you find out why."*
-— **Mark Twain**
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,50:092444,100:050E1F&height=120&section=footer" width="100%"/>
+
+**by Yudha Prasetiya** ⚡
 
 </div>
