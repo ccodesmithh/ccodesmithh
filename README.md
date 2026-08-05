@@ -96,7 +96,7 @@ tools I reach for most:
 a running log of what's shipped, and what's still compiling.
 
 <details open>
-<summary><strong>night at the outpost</strong> &nbsp;— in development</summary>
+<summary><strong>stay still</strong> &nbsp;— in development</summary>
 <br/>
 
 Locked inside a coffin with nothing but your senses to guide you. A psychological horror escape experience built around sensory-limited puzzle design — and a twist waiting at the end.
