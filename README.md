@@ -52,9 +52,9 @@ I'm a vocational software engineering student based in Metro, Lampung, Indonesia
 Outside of coursework and competition prep, I'm building **Night at The Outpost** — a psychological horror escape game about being trapped somewhere small and dark, with only your senses left to work with. Debugging a puzzle that has to feel *impossible but fair* isn't so different from debugging code.
 
 <table>
-<tr><td><strong>role</strong></td><td>vocational software engineer, game developer</td></tr>
+<tr><td><strong>role</strong></td><td>Vocational Software Engineer, Game Developer</td></tr>
 <tr><td><strong>based in</strong></td><td>Metro, Lampung, Indonesia</td></tr>
-<tr><td><strong>currently building</strong></td><td>Night at The Outpost</td></tr>
+<tr><td><strong>currently building</strong></td><td>Night at The Outpost, Stay Still</td></tr>
 <tr><td><strong>currently competing</strong></td><td>LKS — IT Software Solutions</td></tr>
 <tr><td><strong>ask me about</strong></td><td>PHP / Laravel · C# & Unity · GLSL · React</td></tr>
 </table>
