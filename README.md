@@ -2,13 +2,13 @@
 
 # YUDHA PRASETIYA
 
-<sub>vocational software engineer &nbsp;·&nbsp; game developer &nbsp;·&nbsp; metro, lampung, indonesia</sub>
+<sub>Vocational Software Engineer &nbsp;·&nbsp; Game Developer &nbsp;·&nbsp; Metro, Lampung, Indonesia</sub>
 
 <br/>
 
-<a href="https://github.com/ccodesmithh">
+<!-- <a href="https://github.com/ccodesmithh">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=81D4FA&background=00000000&center=true&vCenter=true&width=560&lines=vocational+software+engineer+%F0%9F%8E%93;game+developer+-+night+at+the+outpost+%F0%9F%8E%AE;competing+in+LKS+%F0%9F%8F%86;sepertinya+waktu+akan+tetap+berputar." alt="tagline"/>
-</a>
+</a> -->
 
 <br/><br/>
 
