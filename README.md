@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=81D4FA&background=00000000&center=true&vCenter=true&width=560&lines=vocational+software+engineer+%F0%9F%8E%93;game+developer+-+night+at+the+outpost+%F0%9F%8E%AE;competing+in+LKS+%F0%9F%8F%86;sepertinya+waktu+akan+tetap+berputar." alt="tagline"/>
 </a> -->
 
-<br/><br/>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,19,24&height=2&section=header" width="55%"/>
 
