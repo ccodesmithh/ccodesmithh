@@ -24,7 +24,7 @@ $ ./initialize --profile=yudha_prasetiya
 > booting...
 > location........... metro, lampung, indonesia
 > role............... vocational software engineer, game developer
-> current_build...... night at the outpost (psychological horror)
+> current_build...... yudha's nightmares series season 1 (psychological horror)
 > status.............. awake. building. shipping.
 
 $ ./access --grant
